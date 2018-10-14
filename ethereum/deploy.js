@@ -4,7 +4,7 @@ const compiledFactory = require("./build/CampaignFactory.json");
 
 const provider = new HDWalletProvider(
   "empty quantum embody purchase oblige firm net blush slim ginger letter urge",
-  "https://rinkeby.infura.io/v3/71c20fe2b4bb4ef2a67919eff2a9d26f"
+  "https://rinkeby.infura.io/v3/cc66e894bbb34a4abe846f95bd745cc2"
 );
 const web3 = new Web3(provider);
 
